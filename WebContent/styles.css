@@ -1,0 +1,50 @@
+/*
+Name: Jeff Pottruff (991038577)
+Class: PROG-32758
+Assignment 3
+*/
+
+
+@charset "ISO-8859-1";
+
+
+body {
+	background-color: #28241F;
+	color: #DDD6CB;
+
+}
+
+.success {
+	color: #6CBD7D;
+}
+.error {
+	color: #DA4736;
+}
+
+.formGroup {
+	
+	border: 3px solid #DDD6CB;
+	background-color: #DFC554;
+	color: #28241F;
+	
+	padding: 10px;
+	margin: 10px 0;
+}
+
+form {
+	background-color: #DFC554;
+	color: #28241F;
+	border: none;
+}
+
+
+input[type=submit] {
+	background-color: #28241F;
+	color: #DDD6CB;
+	font-weight: bold;
+	padding: 6px 8px;
+	margin: 6px;
+}
+
+
+
